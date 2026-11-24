@@ -1,0 +1,36 @@
+# qmake / Qt Creator local state
+/build/
+/build-*/
+*.pro.user
+*.pro.user.*
+*.qbs.user
+.qmake.stash
+/.qtc_clangd/
+/.cache/
+/.vs/
+/.vscode/
+/Makefile*
+/debug/
+/release/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+*.exp
+*.res
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Local packages, logs, and operating system files
+/dist/
+*.log
+__pycache__/
+Thumbs.db
+.DS_Store
+/.superpowers/
+/docs/superpowers/

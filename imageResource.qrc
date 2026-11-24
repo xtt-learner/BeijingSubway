@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/backroundimage.jpg</file>
+        <file>Resource/uibackaround.jpg</file>
+        <file>Resource/uibackaroundimage2.jpg</file>
+        <file>Resource/tiananmen.png</file>
+        <file>Resource/airport.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="CapitalAirportLine.txt">Data2/CapitalAirportLine.txt</file>
+        <file alias="ChangPing.txt">Data2/ChangPing.txt</file>
+        <file alias="DaXingAirportLine.txt">Data2/DaXingAirportLine.txt</file>
+        <file alias="FangShan.txt">Data2/FangShan.txt</file>
+        <file alias="Line1.txt">Data2/Line1.txt</file>
+        <file alias="Line10.txt">Data2/Line10.txt</file>
+        <file alias="Line11.txt">Data2/Line11.txt</file>
+        <file alias="Line12.txt">Data2/Line12.txt</file>
+        <file alias="Line13.txt">Data2/Line13.txt</file>
+        <file alias="Line14.txt">Data2/Line14.txt</file>
+        <file alias="Line15.txt">Data2/Line15.txt</file>
+        <file alias="Line16.txt">Data2/Line16.txt</file>
+        <file alias="Line17North.txt">Data2/Line17North.txt</file>
+        <file alias="Line17South.txt">Data2/Line17South.txt</file>
+        <file alias="Line19.txt">Data2/Line19.txt</file>
+        <file alias="Line2.txt">Data2/Line2.txt</file>
+        <file alias="Line3.txt">Data2/Line3.txt</file>
+        <file alias="Line4.txt">Data2/Line4.txt</file>
+        <file alias="Line5.txt">Data2/Line5.txt</file>
+        <file alias="Line6.txt">Data2/Line6.txt</file>
+        <file alias="Line7.txt">Data2/Line7.txt</file>
+        <file alias="Line8.txt">Data2/Line8.txt</file>
+        <file alias="Line9.txt">Data2/Line9.txt</file>
+        <file alias="LineData.txt">Data2/LineData.txt</file>
+        <file alias="S1.txt">Data2/S1.txt</file>
+        <file alias="XiJiao.txt">Data2/XiJiao.txt</file>
+        <file alias="YanFang.txt">Data2/YanFang.txt</file>
+        <file alias="YiZhuang.txt">Data2/YiZhuang.txt</file>
+        <file alias="YiZhuangT1.txt">Data2/YiZhuangT1.txt</file>
+    </qresource>
+</RCC>
